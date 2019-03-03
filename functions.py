@@ -1,3 +1,5 @@
+
+
 def fib(n):    # write Fibonacci series up to n
     """Print a Fibonacci series up to n."""
     a, b = 0, 1
@@ -6,4 +8,4 @@ def fib(n):    # write Fibonacci series up to n
         a, b = b, a+b
     print()
 
-fib(2000)
+fib (2000)
